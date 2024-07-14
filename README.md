@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **New Technologies**
 
-- 🌱 I’m currently learning **Data Science , full stack development**
+- 🌱 I’m currently learning **Data Science ,Data Analysis, full stack development**
 
-- 💬 Ask me about **python, Ai & machine learning, Databases**
+- 💬 Ask me about **python, Ai & machine learning, Databases, PowerBi**
 
 - 📫 How to reach me **23vishal.02dogra@gmail.com**
 
